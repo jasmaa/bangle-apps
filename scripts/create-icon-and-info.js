@@ -6,6 +6,7 @@ require("Storage").write("kobeniclock.img", iconImg());
 
 require("Storage").write('kobeniclock.info', {
   "id": "kobeniclock",
+  "version": "0.1.0",
   "icon": "kobeniclock.img",
   "name": "Kobeni Clock",
   "type": "clock",
