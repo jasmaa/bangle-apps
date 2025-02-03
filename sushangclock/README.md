@@ -2,7 +2,7 @@
 
 ![Sushang clock face](docs/screenshot.png)
 
-A clock face for [Bangle.js 2](https://banglejs.com/) featuring Sushang.
+A clock face featuring Sushang.
 
 ## Getting Started
 

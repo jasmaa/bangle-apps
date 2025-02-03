@@ -4,7 +4,7 @@ Screenshot                                 | Photo
 :-----------------------------------------:|:-------------------------------------------:
 ![Kobeni clock face](docs/kobeniclock.png) | ![Kobeni clock face photo](docs/photo.jpg) |
 
-A clock face for [Bangle.js 2](https://banglejs.com/) featuring Kobeni.
+A clock face featuring Kobeni.
 
 ## Getting Started
 

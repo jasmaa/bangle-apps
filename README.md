@@ -1,3 +1,3 @@
 # Bangle Apps
 
-My Bangle apps
+My [Bangle.js 2](https://banglejs.com/) apps
